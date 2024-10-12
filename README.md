@@ -22,7 +22,7 @@ This project demonstrates the use of dbt to build a simplified e-commerce shop a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/pierrealex78/dbt-intro/
+   git clone https://github.com/pierrealex78/pierrealex_shop/
    ```
 2. **Set Up Environment:** Configure your dbt environment ([DBT Cloud](https://docs.getdbt.com/docs/introduction)) using the provided configuration files.
 3. **Run DBT Commands:**: Use dbt commands to build models, test data, and deploy to your data warehouse.
